@@ -1,6 +1,6 @@
 # ActiveAdminImportable
 
-CSV imports for Active Admin with one line of code.
+CSV/XLS/XLSX imports for Active Admin with one line of code.
 
 ## Installation
 
@@ -23,7 +23,7 @@ Add the following line into your active admin resource:
 
    active_admin_importable
 
-The Import button should now appear. Click it and upload a CSV file with a header row corresponding to your model attributes. Press submit. Profit.
+The Import button should now appear. Click it and upload a CSV/XLS/XLSX file with a header row corresponding to your model attributes. Press submit. Profit.
 
 ## Custom Import Behavior
 
